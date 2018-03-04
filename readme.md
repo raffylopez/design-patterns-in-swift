@@ -1,5 +1,2 @@
-# Git Academy
-A place to find the zen of git.
-
-
-And have fun in the process.
+# Design Patterns in Swift
+A continually-growing compedium of design pattern implementations in trusty 'ol Swift
