@@ -1,5 +1,5 @@
 public class Aloha {
   public static void main(String[] args) {
-    System.out.println("Foobar");
+    System.out.println("Something not quite complete");
   }
 }
