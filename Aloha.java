@@ -1,5 +1,6 @@
 public class Aloha {
   public static void main(String[] args) {
-    System.out.println("BAR");
+    // this has been merged
+    System.out.println("BAR AND ALOOOOHA-FOO!");
   }
 }
