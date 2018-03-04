@@ -1,2 +1,4 @@
 # Git Academy
-A place to learn the zen of git.
+A place to find the zen of git.
+
+And have fun in the process.
